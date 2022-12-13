@@ -30,7 +30,7 @@
 		ColdFusion tags and functions (ie, cfqueryparam, canonicalize, CSRFGenerateToken, encoding, regular expressions, etc.)</li>
 </ol>
 
-<p class="p-2">The idea of the demo and the use of node came from https://github.com/twbs/bootstrap-npm-starter.  Much thanks!  The bacpac file called "BFC_backpac.bacpac" is the MS SQL Server tables and data used to run this demo application.  
+<p class="p-2">The idea of the demo and the use of node came from https://github.com/twbs/bootstrap-npm-starter.  Much thanks!  The bacpac file called "BFC_backpac.bacpac" is the Microsoft SQL Server tables and data used to run this demo application.  
 </p>
 
 
