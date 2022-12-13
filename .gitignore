@@ -3,11 +3,13 @@
 settings.xml
 WEB-INF
 
-# Engines + Database + CBFS + Secrets
+# Engines + Database + CBFS + Secrets + todos
 .env
 .engine/**
 .db/**
 .cbfs/**
+notes/
+**/*-todo.md
 
 # logs + tests
 logs/**
