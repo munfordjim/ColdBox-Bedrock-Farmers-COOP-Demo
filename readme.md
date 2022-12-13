@@ -25,7 +25,7 @@
 	<li>ColdFusion 2021</li>
 	<li>MS SQL Server, SQL Server Studio</li>
 	<li>MS Visual Studio Code</li>
-	<li>REST API concepts using ColdBox Rest functionality (Reports)
+	<li>REST API concepts using ColdBox Rest functionality (Reports).  API security not yet implemented.
 	<li>Protection against SQL injection (SQLi), Cross-Site Scripting (XSS), etc. using appropriate cbValidation,
 		ColdFusion tags and functions (ie, cfqueryparam, canonicalize, CSRFGenerateToken, encoding, regular expressions, etc.)</li>
 </ol>
