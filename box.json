@@ -21,13 +21,15 @@
         "testbox":"*",
         "commandbox-dotenv":"*",
         "commandbox-cfconfig":"*",
-        "commandbox-cfformat":"*"
+        "commandbox-cfformat":"*",
+        "cbdebugger":"^4.0.1+94"
     },
     "installPaths":{
         "coldbox":"coldbox/",
         "testbox":"testbox/",
         "cbmessagebox":"modules/cbmessagebox/",
-        "cbvalidation":"modules/cbvalidation/"
+        "cbvalidation":"modules/cbvalidation/",
+        "cbdebugger":"modules/cbdebugger/"
     },
     "dependencies":{
         "coldbox":"^6.0.0",

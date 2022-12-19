@@ -52,7 +52,7 @@ component accessors="true"{
                 lastName = obj.getLastName(),
                 emailAddress = obj.getEmailAddress(),
                 phoneNumber = obj.getPhoneNumber()
-            }
+            };
             // decodeScope returns the rc scope.  If any of the fields has ERROR in it, return the message.
             structDecodeScope = decodeScope( addressBeanProperties );
             
@@ -88,7 +88,7 @@ component accessors="true"{
             resultMessage = true;
 		}
 
-        return resultMessage
+        return resultMessage;
 	}
 
 	public any function decodeScope( required struct scope )

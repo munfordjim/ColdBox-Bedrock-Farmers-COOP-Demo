@@ -1,6 +1,6 @@
 {
     "app":{
-        "cfengine":"adobe@2021"
+        "cfengine":"adobe@2018"
     },
     "cfedition":"adobe@2016",
     "name":"Bedrock Farmin Coop - ColdBox",
